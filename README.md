@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋 I'm Redcom1988
 
-<!--
-**Redcom1988/redcom1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Redcom1988&show_icons=true&theme=dark&count_private=true)
 
-Here are some ideas to get you started:
+## 💻 Tech Stack & Usage
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Redcom1988&layout=compact&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 GitHub Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Redcom1988&theme=dark)
+
+## 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Redcom1988&theme=github-dark)
+
+## 🛠️ Technologies I Work With
+- **Frontend**: Jetpack Compose, HTML, CSS, JavaScript
+- **Backend**: Kotlin
+- **Tools**: VSCode, Android Studio
+- **Version Control**: Git, GitHub
+
+## 📫 Connect with Me
+- Portfolio: [redcom1988.github.io](https://redcom1988.github.io)
+- LinkedIn: [Adika Setyadharma Susilo](https://linkedin.com/in/adikass)
+
+---
+⭐️ From [Redcom1988](https://github.com/Redcom1988)
