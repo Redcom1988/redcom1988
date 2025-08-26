@@ -7,7 +7,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Redcom1988&layout=compact&theme=dark)
 
 ## 🔥 GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Redcom1988&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Redcom1988)](https://git.io/streak-stats)
 
 ## 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Redcom1988&theme=github-dark)
